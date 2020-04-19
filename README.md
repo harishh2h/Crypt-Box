@@ -6,6 +6,9 @@ I'm started Python and I want to build a Mini GUI Project with Kivy and discover
 
 This is Encryption and decryption App made with  Python and kivyMD
 
+![Crypt-Box] (/https://github.com/harishh2h/Crypt-Box/blob/master/cryptbox.png)
+
+
 [FOR Beginners] : Practice OOP , kivy and kv language [It's kivy designing language] 
 
 
