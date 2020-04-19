@@ -11,9 +11,11 @@ This is Encryption and decryption App made with  Python and kivyMD
 
 Required :
 
-You install these with pip install command
+You install these with `pip install`
 
-1.kivy  
-2.kivyMD
-3.plyer [I used it for opening files with Windows explorer you can with kivy also]
-4.pyAesCrypt [For Encrypting and Decrypting files]
+* kivy  
+* kivyMD
+* plyer [I used it for opening files with Windows explorer you can with kivy also]
+* pyAesCrypt [For Encrypting and Decrypting files]
+
+I'm a beginner and this is my first Python project so the code is :p
